@@ -1,13 +1,13 @@
-# Hi there, I'm Djedidi Oussama! 👋
+# Hi there, I'm Nasser Fath! 👋
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 I'm a passionate web developer with a focus on building responsive, scalable web applications. My expertise spans frontend frameworks, backend development, and crafting solutions for e-commerce platforms. Always exploring new technologies to sharpen my skills!
 
 ## 🌍 Connect with me:
-- **Portfolio**: [My Portfolio](https://djedidi-oussama.vercel.app/)
-- **LinkedIn**: [Djedidi Oussama on LinkedIn](https://www.linkedin.com/in/djedidi-oussama/)
-- **Email**: djdidoussama@gmail.com
+- **Portfolio**: [My Portfolio](https://nasser-fath.vercel.app/)
+- **LinkedIn**: [Nasser Fath on LinkedIn](https://www.linkedin.com/in/nasser-fath/)
+- **Email**: nasser.tech.tech@gmail.com
 
 ## 🚀 Projects:
 
@@ -25,7 +25,7 @@ Water Connect is a full-stack application designed to streamline water distribut
 
 ### [🎬 IMDB Clone](https://imdbclone-mu.vercel.app/)
 A web application that replicates the browsing experience of the popular Internet Movie Database (IMDB). Users can explore a wide array of movies, including detailed information such as ratings, genres, and trailers. This project is built using **Next.js**, styled with **Tailwind CSS**, and utilizes the **TMDB API** for movie data.  
-**Repository**: [IMDB Clone Repository](https://github.com/djedidi-oussama/imdb-clone)
+**Repository**: [IMDB Clone Repository](https://github.com/nasser-fath/imdb-clone)
 
 ## 🛠️ Skills & Technologies:
 
