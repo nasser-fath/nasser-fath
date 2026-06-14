@@ -6,7 +6,7 @@ I'm a passionate web developer with a focus on building responsive, scalable web
 
 ## 🌍 Connect with me:
 - **Portfolio**: [My Portfolio](https://oussama-djedidi.vercel.app/)
-- **LinkedIn**: [Nasser Fath on LinkedIn](https://www.linkedin.com/in/nasser-fath/)
+- **LinkedIn**: [Oussama Djedidi on LinkedIn](https://www.linkedin.com/in/nasser-fath/)
 - **Email**: djdidoussama@gmail.com
 
 ## 🚀 Projects:
