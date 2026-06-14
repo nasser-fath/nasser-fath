@@ -1,13 +1,13 @@
-# Hi there, I'm Nasser Fath! 👋
+# Hi there, I'm Oussama Djedidi 👋
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 I'm a passionate web developer with a focus on building responsive, scalable web applications. My expertise spans frontend frameworks, backend development, and crafting solutions for e-commerce platforms. Always exploring new technologies to sharpen my skills!
 
 ## 🌍 Connect with me:
-- **Portfolio**: [My Portfolio](https://nasser-fath.vercel.app/)
+- **Portfolio**: [My Portfolio](https://oussama-djedidi.vercel.app/)
 - **LinkedIn**: [Nasser Fath on LinkedIn](https://www.linkedin.com/in/nasser-fath/)
-- **Email**: nasser.tech.tech@gmail.com
+- **Email**: djdidoussama@gmail.com
 
 ## 🚀 Projects:
 
